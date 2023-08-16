@@ -2,3 +2,4 @@ change something in the file.
 another changes (2nd) change
 changes
 want to change, 5:04
+New line
